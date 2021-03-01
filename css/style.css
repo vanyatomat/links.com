@@ -1,0 +1,35 @@
+body {
+  margin: 24px;
+  display: grid;
+  place-items: center;
+}
+
+.logo {
+  margin-bottom: 79px;
+}
+
+.logo img {
+  width: 100%;
+}
+
+.list {
+  margin: 0;
+  margin-bottom: 48px;
+  list-style: none;
+  padding-left: 0;
+}
+
+.list-element {
+  margin-bottom: 32px;
+  font-size: 32px;
+  font-family: 'Helvetica', sans-serif;
+}
+
+.list-element a {
+  color: white;
+  background-color: #0038FF;
+}
+
+.my-photo {
+  width: 100%;
+}
