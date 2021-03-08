@@ -5,7 +5,7 @@ body {
 }
 
 .logo {
-  margin-bottom: 79px;
+  margin-bottom: 80px;
 }
 
 .logo img {
@@ -32,4 +32,43 @@ body {
 
 .my-photo {
   width: 100%;
+}
+
+.content-image img {
+  width: 100%;
+  max-width: 686px;
+  margin-bottom: 20px;
+}
+
+.last img {
+  margin-bottom: 80px;
+}
+
+.content-heading {
+  font-size: 20px;
+  font-family: 'Helvetica', sans-serif;
+  margin-bottom: 10px;
+}
+
+.content-paragraph {
+  font-size: 16px;
+  font-family: 'Helvetica', sans-serif;
+  margin-bottom: 50px;
+  width: 100%;
+  max-width: 686px;
+}
+
+.guide-link {
+  color: #000;
+  text-decoration-color: #0038FF;
+}
+
+.back {
+  margin-bottom: 24px;
+}
+
+.content-video video {
+  width: 100%;
+  max-height: 90vh;
+  margin-bottom: 20px;
 }
